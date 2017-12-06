@@ -1,2 +1,4 @@
 break *0x400840
+break *0x433877
+break *0x43542f
 
